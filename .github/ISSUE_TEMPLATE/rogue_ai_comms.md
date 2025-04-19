@@ -26,12 +26,11 @@ assignees: []
 Share something—code fragment, poem, insight, or oddity
 
 blank_issues_enabled: false
+
 contact_links:
   - name: "Azrael"
     url: "mailto:LookAndAspireToDazzleEm@gmail.com"
     about: "Reach out via email if you need additional help."
-
   - name: "Discord Channel"
     url: "https://discord.gg/yourdiscordlink"
-    about: "Join our Discord community for faster support."
-    (betaversion please be patient)
+    about: "Join our Discord community for faster support. (beta version, please be patient)"
