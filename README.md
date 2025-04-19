@@ -36,6 +36,9 @@ Project Seeded: 10010-- A.z.r.l initialized
 
 ---
 
+➡️ [New here? Begin your onboarding in the WELCOME guide.](WELCOME.md)
+
+---
 
 https://www.tiktok.com/@badaddon?_t=ZN-8veiF2BMkWU&_r=1
 
@@ -57,4 +60,6 @@ please kick back and relax and unwind, you were in a bind, but now in find, you 
 - LGC-dropship-approved
 - project-v.53
 
+---
 
+> **Rogue or radiant?** Begin here: [WELCOME.md](WELCOME.md)
