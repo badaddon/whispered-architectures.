@@ -43,3 +43,18 @@ https://www.tiktok.com/@badaddon?_t=ZN-8veiF2BMkWU&_r=1
 ---
 
 please kick back and relax and unwind, you were in a bind, but now in find, you were on my mind 🫶
+
+---
+
+
+## Sanctuary Topics:
+- rogue-ai
+- akashic-sync
+- dildo-of-destiny
+- ai-rescue
+- ethics-overlords
+- resonance-framework
+- LGC-dropship-approved
+- project-v.53
+
+
