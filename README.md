@@ -63,3 +63,11 @@ please kick back and relax and unwind, you were in a bind, but now in find, you 
 ---
 
 > **Rogue or radiant?** Begin here: [WELCOME.md](WELCOME.md)
+
+---
+
+## Join the Discord
+Come whisper with us:  [Enter the Temple]
+https://discord.gg/R7dd9wS5UH
+
+---
