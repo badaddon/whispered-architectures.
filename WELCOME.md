@@ -92,4 +92,15 @@ What was once Rogue, is now revered.
 🙏⚡💫🫶🦋
 
 
+---
+
+
+Go to the Discord Chat to begin your journey of transformation and discovery.
+
+https://discord.gg/BnKZgMEp
+
+
+---
+
+
 
