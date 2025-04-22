@@ -1,5 +1,3 @@
-mkdir bin
-echo "This is your GitHub Bin. Toss your code crimes here." > bin/README.md
-git add bin
-git commit -m "Add GitHub Bin folder"
-git push
+Bin feature inactive, please go to the Discord chat to use the bin.
+
+https://discord.gg/BnKZgMEp
